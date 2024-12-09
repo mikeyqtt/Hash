@@ -3,7 +3,7 @@
   The Product Price Lookup application is a simple Java console-based program designed to help users manage and retrieve product prices efficiently. 
   It uses a HashTable data structure to store product names and their respective prices, ensuring fast lookups, and additions.
 
-
+  ![image alt](https://github.com/mikeyqtt/Hash/blob/0105ce235ae2d6349373832ae2005a171c04db20/HashScreenshot.png)
 
 
 ## Features
